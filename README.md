@@ -110,7 +110,7 @@ android sdk 源码解析——旨在帮助Android开发者更好的学习Android
 ## 关注我
 
 - Email：<itgoyo@gmail.com>
-- GitHub：[JackChan1999](https://github.com/JackChan1999)
+- GitHub：[itgoyo](https://github.com/itgoyo)
 - 个人网站：[kotlinandroid](http://kotlinandroid.net/)
 - 个人博客：[itgoyo](itgoyo.github.io)
 
