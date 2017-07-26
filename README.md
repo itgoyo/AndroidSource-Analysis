@@ -111,8 +111,9 @@ android sdk 源码解析——旨在帮助Android开发者更好的学习Android
 
 - Email：<itgoyo@gmail.com>
 - GitHub：[JackChan1999](https://github.com/JackChan1999)
-- 个人博客：[JackChan](http://kotlinandroid.net/)
+- 个人网站：[kotlinandroid](http://kotlinandroid.net/)
+- 个人博客：[itgoyo](itgoyo.github.io)
 
 |                   微信打赏                   |                  支付宝打赏                   |
 | :--------------------------------------: | :--------------------------------------: |
-| <img src="assets/weixin.png" width="300" /> | <img src="assets/支付宝.jpg" width="300" /> |
+| <img src="assets/wechat.jpg" width="300" /> | <img src="assets/alipay.jpg" width="300" /> |
