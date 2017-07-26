@@ -22,10 +22,8 @@
 
 android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
 
-- [PDF、Mobi、ePub下载](https://www.gitbook.com/book/alleniverson/android-source-analysis/details)
 - [Android源码分析.pdf](http://download.csdn.net/detail/axi295309066/9788564)
-- [在线阅读](https://www.gitbook.com/book/alleniverson/android-source-analysis/content)
-- [GitHub托管](https://github.com/JackChen1999/Android_Source_Analysis)
+- [GitHub托管](https://github.com/itgoyo/AndroidSource-Analysis)
 
 
 ## 目录
